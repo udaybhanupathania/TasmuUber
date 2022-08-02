@@ -1,0 +1,14 @@
+POST https://ubertaxiupdates9987766.azurewebsites.net/api/UberTaxiUpdate HTTP/1.1
+content-type: application/json
+
+{
+    "tnc_id": "Durai Murgan",
+    "txn_type": "EXIT",
+    "timestamp": "2022-07-14T17:48:55Z",
+    "uid": "XXXXXXXXXXXXXXXX",
+    "lon": "XX.XXXXXXXX",
+    "lat": "XX.XXXXXXXX",
+    "license_plate": "XXXXXXX",
+    "ride_count": "1",
+    "geofence_id": "FIFA"
+}
